@@ -14,3 +14,10 @@ java中最常用的日期类主要有 Date 、Calendar、LocalDate、SimpleForma
 
 ### java.util.Date
 
+`Date` 使用两种构造方法（其余已经过时）
+
+* `new Date()` :获得当前的时间
+* `new Date(long date)` :传入一个long变量表示从1970年到对应日期之间毫秒数
+
+
+
